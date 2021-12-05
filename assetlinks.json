@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.hirequotient",
+    "sha256_cert_fingerprints":
+    ["B2:1D:B0:67:E1:C2:37:A7:DF:85:1A:28:30:93:6F:D6:87:A3:71:95:92:CC:3A:05:9B:9D:DC:B3:0E:C0:98:43"]
+  }
+}]
